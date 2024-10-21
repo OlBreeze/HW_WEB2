@@ -1,5 +1,7 @@
 We  have sipmle HTML project "Starwars". 
-My task - to move this project to React
+My task - to move this project to React  
+
+~ Begining ~
 
 
 ***
