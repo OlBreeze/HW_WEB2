@@ -36,6 +36,7 @@ The last stage is to display the winner (crosses or zeros) on the screen or decl
 ![image](https://github.com/user-attachments/assets/17bd86d9-df47-49c1-adb2-6392323be8d0)
 
 ***
-![image](https://github.com/user-attachments/assets/b195535c-ec9d-4261-ba28-44511db18f6b)
+![image](https://github.com/user-attachments/assets/fd944db1-5362-41a3-95f3-c3fb76e64d15)
+
 
 
