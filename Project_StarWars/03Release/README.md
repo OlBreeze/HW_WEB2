@@ -1,4 +1,4 @@
-# Navigation - move on pages  
+# Page navigation  
 
 ### Schema №2
 
