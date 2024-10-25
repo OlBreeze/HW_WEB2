@@ -1,5 +1,4 @@
-## React Context API
-***
+
 
 # Правила игры  
 
